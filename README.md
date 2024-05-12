@@ -1,2 +1,1 @@
-# PrepCourse-Henry-12-05
-Ejemplo de repositorio módulo dos de prep
+Prueba de como crear un repositorio desde github y clonarlo desde mi computadora
